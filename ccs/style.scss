@@ -1,5 +1,3 @@
-
-
 /* 
 *  CSS TABLE OF CONTENTS
 *   
@@ -17,18 +15,18 @@
 
 /*** 1.0 - Reset ***/
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 /*** 2.0 - Fonts ***/
 
 /*** 3.0 - Globals ***/
 
-img{
-  max-width: 100%;
-  height: auto;
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 /*** 4.0 - Color Palette ***/
@@ -37,9 +35,9 @@ img{
 
 /*** 6.0 - Body ***/
 h2 {
-  font-size: 1.2em;
-  font-family: "Ubuntu", serif;
-  text-transform: uppercase;
+    font-size: 1.2em;
+    font-family: "Ubuntu", serif;
+    text-transform: uppercase;
 }
 
 /*** 5.1 - Sliders ***/
@@ -50,9 +48,9 @@ h2 {
 
 /*** 8.0 - MediaQuery ***/
 
-  /* For tablets: */
+/* For tablets: */
 @media only screen and (min-width: 600px) {}
 
 
-  /* For desktop: */
+/* For desktop: */
 @media only screen and (min-width: 768px) {}
